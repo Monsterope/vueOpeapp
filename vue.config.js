@@ -1,3 +1,9 @@
 module.exports = {
-  publicPath: 'https://monsterope.github.io/vueOpeapp/'
+  publicPath: './',
+  outputDir: undefined,
+  assetsDir: undefined,
+  runtimeCompiler: undefined,
+  productionSourceMap: undefined,
+  parallel: undefined,
+  css: undefined
 }
